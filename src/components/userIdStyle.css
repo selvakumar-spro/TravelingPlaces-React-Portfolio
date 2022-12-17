@@ -1,0 +1,11 @@
+.user-profile{
+   width:28%;
+   height:auto;
+   margin: auto;
+   padding: 20px 0;
+  
+  text-align: center;
+  margin-top:23%;
+  box-shadow: 2px 2px 15px 0 rgba(0,0,0,0.8 );
+  line-height: 50px;
+}

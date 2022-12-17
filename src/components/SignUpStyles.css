@@ -1,0 +1,44 @@
+.form-Container{
+    margin:8rem 25rem;
+    color:black;
+    box-shadow: 2px 2px 15px 0 rgba(0,0,0,0.7);
+}
+.form-Container form{
+    padding-top:1rem ;
+    display:flex;
+    flex-direction: column;
+    width:80%;
+    margin:auto;
+}.form-Container h1{
+  text-align: center;
+}
+.form-Container input{
+    height:3rem;
+    padding:0 1rem;
+    margin-bottom: 2rem;
+    border-radius: .3rem;
+    border:1px solid black;
+}
+button{
+  background-color: grey;
+  margin-bottom: 10px;
+}
+p{
+  padding-bottom: 10px;
+}
+
+@media screen and (max-width:850px){
+  .form-Container{
+    margin:4rem 2rem;
+    color:black;
+  }
+  .form-Container form{
+    padding-top:2rem;
+    width:90%;
+    height: auto;
+  }
+  button{
+    
+    display: block;
+  }
+}
