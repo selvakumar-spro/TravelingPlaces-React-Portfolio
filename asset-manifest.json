@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TravelingPlaces-React-Portfolio/static/css/main.0b9fa86e.css",
+    "main.js": "/TravelingPlaces-React-Portfolio/static/js/main.6f544365.js",
+    "static/media/yercaud2.jpg": "/TravelingPlaces-React-Portfolio/static/media/yercaud2.edaff70058b892ca7418.jpg",
+    "static/media/yercaud1.jpg": "/TravelingPlaces-React-Portfolio/static/media/yercaud1.c3617497543a2c27b0a1.jpg",
+    "static/media/1.jpg": "/TravelingPlaces-React-Portfolio/static/media/1.4da45fd2c0a0480e364c.jpg",
+    "static/media/night.jpg": "/TravelingPlaces-React-Portfolio/static/media/night.ebec9bcff7d73700c0e0.jpg",
+    "static/media/st.petersburg2.jpg": "/TravelingPlaces-React-Portfolio/static/media/st.petersburg2.9b3ab6adfeed273023da.jpg",
+    "static/media/home.jpg": "/TravelingPlaces-React-Portfolio/static/media/home.8ed27970273d4bbe71b1.jpg",
+    "static/media/malaysia.jpg": "/TravelingPlaces-React-Portfolio/static/media/malaysia.732423b90afb259a95d2.jpg",
+    "static/media/lakebaikal2.jpg": "/TravelingPlaces-React-Portfolio/static/media/lakebaikal2.dcb5bd2908070735c3de.jpg",
+    "static/media/st.petersburg1.jpg": "/TravelingPlaces-React-Portfolio/static/media/st.petersburg1.c5db44c469560f7b850e.jpg",
+    "static/media/4.jpg": "/TravelingPlaces-React-Portfolio/static/media/4.4dbcf1aaf79253211d8a.jpg",
+    "static/media/indonesia.jpg": "/TravelingPlaces-React-Portfolio/static/media/indonesia.c870dc9352948b76a4df.jpg",
+    "static/media/lakebaikal1.jpg": "/TravelingPlaces-React-Portfolio/static/media/lakebaikal1.690927fef995bd217df8.jpg",
+    "static/media/france.jpg": "/TravelingPlaces-React-Portfolio/static/media/france.d03353bf733da2d3a993.jpg",
+    "index.html": "/TravelingPlaces-React-Portfolio/index.html",
+    "main.0b9fa86e.css.map": "/TravelingPlaces-React-Portfolio/static/css/main.0b9fa86e.css.map",
+    "main.6f544365.js.map": "/TravelingPlaces-React-Portfolio/static/js/main.6f544365.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b9fa86e.css",
+    "static/js/main.6f544365.js"
+  ]
+}
